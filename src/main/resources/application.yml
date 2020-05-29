@@ -17,11 +17,11 @@ spring:
 twitter:
   api:
     consumer:
-      key: 99WuRvLr5zId2wBILmTbyatnF
-      secret: WPTWO8VoY1KsXMMc0zoJTXsOoMWAhziqHq9R7ngQcoCC2kaNR3
+      key: **********
+      secret: *******
   access:
-    token: 91426639-TmDAYfJ8xp2pB2PI5e5kHW40dLRpBXmFfBACU7MwG
-    secret: qHeseHlkNxu8AC6tJeCG3lFTx2Cukc4bmgGRTmsC0Ig7v
+    token: ***************
+    secret: *************
     level: Read and write
 
 
